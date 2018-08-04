@@ -1,0 +1,29 @@
+2018-02-25 14:27:03 9992  [WARNING] No driver on selected net. Press 'Cancel' to choose driver now. - The "Cancel" button was selected
+2018-02-25 14:27:31 9992  [WARNING] No driver on selected net. Press 'Cancel' to choose driver now. - The "OK" button was selected
+2018-02-25 19:18:50 10476     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW5\HW5.ffs
+2018-02-25 19:19:55 10476     [INFO] HyperLynx: Save changes to HW5? - The "Cancel" button was selected
+2018-02-25 19:29:06 10476     [INFO] Closing Schematic: HW5.ffs
+2018-02-25 19:29:10 10476     [INFO] ****** Closing HyperLynx 
+2018-02-25 21:32:57 9372     [INFO] ****** Closing HyperLynx 
+2018-02-25 21:33:07 11072     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW5\HW5.ffs
+2018-02-26 00:18:05 11072     [INFO] Closing Schematic: HW5.ffs
+2018-02-26 00:18:07 11072     [INFO] ****** Closing HyperLynx 
+2018-02-26 11:34:19  588     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW5\HW5.ffs
+2018-02-26 13:50:40  588     [INFO] Closing Schematic: HW5.ffs
+2018-02-26 13:50:40  588     [INFO] ****** Closing HyperLynx 
+2018-02-26 14:35:14 7644     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW5\HW5.ffs
+2018-02-26 14:56:48 7644     [INFO] Closing Schematic: HW5.ffs
+2018-02-26 14:56:55 7644     [INFO] Creating New Schematic
+2018-02-26 14:57:12 7644     [INFO] Closing Schematic: HW5)1.ffs
+2018-02-26 14:57:14 7644     [INFO] ****** Closing HyperLynx 
+2018-02-26 15:38:02 9856    [ERROR] Error: Number out of range! Using minimum default.
+2018-02-26 15:38:12 9856    [ERROR] Error: Number out of range! Using minimum default.
+2018-02-26 15:38:14 9856    [ERROR] Error: Error running Field Solver: The design has an unusual geometry: the traces may be too narrow, too close together or too close to a plane.
+2018-02-26 18:44:12 9856     [INFO] Closing Schematic: HW5_1.ffs
+2018-02-26 18:44:14 9856     [INFO] ****** Closing HyperLynx 
+2018-02-26 19:09:01 9700     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW5\HW5.ffs
+2018-02-26 19:17:51 9700     [INFO] Closing Schematic: HW5.ffs
+2018-02-26 19:17:52 9700     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW5\HW5_1.ffs
+2018-02-26 20:03:38 9700     [INFO] HyperLynx: Save changes to HW5_1? - The "Yes" button was selected
+2018-02-26 20:03:41 9700     [INFO] Closing Schematic: HW5_1.ffs
+2018-02-26 20:03:43 9700     [INFO] ****** Closing HyperLynx 

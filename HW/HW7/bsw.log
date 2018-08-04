@@ -1,0 +1,119 @@
+2018-03-07 23:04:41 14512     [INFO] Creating New Schematic
+2018-03-07 23:41:03 14512     [INFO] Closing Schematic: HW7.ffs
+2018-03-07 23:41:06 14512     [INFO] ****** Closing HyperLynx 
+2018-03-08 16:32:50 13228     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7.ffs
+2018-03-08 17:19:59 13228     [INFO] HyperLynx: Save changes to HW7? - The "Yes" button was selected
+2018-03-08 17:20:00 13228     [INFO] Closing Schematic: HW7.ffs
+2018-03-08 17:20:03 13228     [INFO] ****** Closing HyperLynx 
+2018-03-08 18:16:09 3120     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7.ffs
+2018-03-08 18:16:34 3120    [ERROR] HyperLynx: No schematic pins mapped on S ports. Nothing to export.
+2018-03-08 19:53:11 3120     [INFO] HyperLynx: Save changes to HW7? - The "Yes" button was selected
+2018-03-08 19:53:12 3120     [INFO] Closing Schematic: HW7.ffs
+2018-03-08 19:53:16 3120     [INFO] ****** Closing HyperLynx 
+2018-03-09 16:47:38 7308     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7.ffs
+2018-03-09 18:47:43 7308  [WARNING] HyperLynx: Cannot create a constraint template without a driver in the schematic
+2018-03-09 18:47:52 7308    [ERROR] HyperLynx: Board outline is undefined or invalid. Unable to simulate.
+2018-03-09 22:14:07 7308     [INFO] Closing Schematic: HW7.ffs
+2018-03-09 22:14:12 7308     [INFO] Creating New Schematic
+2018-03-09 23:08:11 7308     [INFO] HyperLynx: No IC-pins found on the net.  IC-pins are needed to define the ports of the S-parameter model.  Command aborted.
+2018-03-09 23:08:18 7308     [INFO] HyperLynx: Save changes to HW7_1? - The "Yes" button was selected
+2018-03-09 23:08:20 7308     [INFO] Closing Schematic: HW7_1.ffs
+2018-03-09 23:08:24 7308     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7.ffs
+2018-03-09 23:08:30 7308    [ERROR] HyperLynx: No schematic pins mapped on S ports. Nothing to export.
+2018-03-09 23:11:38 7308     [INFO] Closing Schematic: HW7.ffs
+2018-03-09 23:11:44 7308     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7_1.ffs
+2018-03-10 00:47:40 7308     [INFO] Closing Schematic: HW7_1.ffs
+2018-03-10 00:47:42 7308     [INFO] ****** Closing HyperLynx 
+2018-03-10 16:44:00 6160     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7.ffs
+2018-03-10 17:16:21 6160     [INFO] HyperLynx: Save changes to HW7? - The "No" button was selected
+2018-03-10 17:16:24 6160     [INFO] Closing Schematic: HW7.ffs
+2018-03-10 17:16:26 6160     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7_1.ffs
+2018-03-10 17:40:16 6160     [INFO] Closing Schematic: HW7_1.ffs
+2018-03-10 17:40:18 6160     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7.ffs
+2018-03-10 17:56:19 6160     [INFO] Stackup Editor: All changes in Stackup will be lost! Do you really want to close Stackup Editor? - The "Yes" button was selected
+2018-03-10 17:56:27 6160     [INFO] HyperLynx: Save changes to HW7? - The "No" button was selected
+2018-03-10 17:56:29 6160     [INFO] Closing Schematic: HW7.ffs
+2018-03-10 17:56:31 6160     [INFO] ****** Closing HyperLynx 
+2018-03-14 10:17:50 11784     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7.ffs
+2018-03-14 10:28:28 11784     [INFO] HyperLynx: Save changes to HW7? - The "Yes" button was selected
+2018-03-14 10:28:30 11784     [INFO] Closing Schematic: HW7.ffs
+2018-03-14 10:28:32 11784     [INFO] ****** Closing HyperLynx 
+2018-03-14 11:38:39 1456     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7.ffs
+2018-03-14 11:44:10 1456    [ERROR] Error: Number out of range! Using minimum default.
+2018-03-14 11:44:16 1456    [ERROR] Error: Number out of range! Using minimum default.
+2018-03-14 11:44:21 1456    [ERROR] Error: Number out of range! Using minimum default.
+2018-03-14 11:47:58 1456    [ERROR] Error: Number out of range! Using minimum default.
+2018-03-14 13:10:33 1456     [INFO] Closing Schematic: HW7.ffs
+2018-03-14 13:10:35 1456     [INFO] ****** Closing HyperLynx 
+2018-03-14 16:38:00 14484     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7_1.ffs
+2018-03-14 23:04:16 14484     [INFO] Closing Schematic: HW7_1.ffs
+2018-03-15 16:36:09 16764     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7_1.ffs
+2018-03-15 16:47:56 16764     [INFO] HyperLynx: Save changes to HW7_1? - The "Yes" button was selected
+2018-03-15 16:47:58 16764     [INFO] Closing Schematic: HW7_1.ffs
+2018-03-15 16:48:01 16764     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7.ffs
+2018-03-15 16:48:33 16764     [INFO] HyperLynx: Save changes to HW7? - The "Yes" button was selected
+2018-03-15 16:48:34 16764     [INFO] Closing Schematic: HW7.ffs
+2018-03-15 16:48:37 16764     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7_1.ffs
+2018-03-15 16:51:33 16764     [INFO] Closing Schematic: HW7_1.ffs
+2018-03-15 16:51:35 16764     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7.ffs
+2018-03-15 16:53:01 16764     [INFO] Closing Schematic: HW7.ffs
+2018-03-15 16:53:02 16764     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7.ffs
+2018-03-15 16:53:05 16764     [INFO] HyperLynx: Save changes to HW7? - The "Yes" button was selected
+2018-03-15 16:53:06 16764     [INFO] Closing Schematic: HW7.ffs
+2018-03-15 16:53:08 16764     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7_1.ffs
+2018-03-15 16:53:49 16764    [ERROR] HyperLynx: No schematic pins mapped on S ports. Nothing to export.
+2018-03-15 16:56:29 16764     [INFO] HyperLynx: Save changes to HW7_1? - The "Yes" button was selected
+2018-03-15 16:56:30 16764     [INFO] Closing Schematic: HW7_1.ffs
+2018-03-15 16:56:32 16764     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7.ffs
+2018-03-15 16:58:14 16764     [INFO] Closing Schematic: HW7.ffs
+2018-03-15 16:58:17 16764     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7_1.ffs
+2018-03-15 17:02:02 16764     [INFO] Closing Schematic: HW7_1.ffs
+2018-03-15 17:02:04 16764     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7.ffs
+2018-03-15 17:06:50 16764     [INFO] HyperLynx: Save changes to HW7? - The "Yes" button was selected
+2018-03-15 17:06:51 16764     [INFO] Closing Schematic: HW7.ffs
+2018-03-15 17:06:53 16764     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7_1.ffs
+2018-03-15 17:12:03 16764     [INFO] Closing Schematic: HW7_1.ffs
+2018-03-15 17:12:06 16764     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7.ffs
+2018-03-15 17:12:18 16764     [INFO] HyperLynx: Save changes to HW7? - The "Yes" button was selected
+2018-03-15 17:12:19 16764     [INFO] Closing Schematic: HW7.ffs
+2018-03-15 17:12:21 16764     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7_1.ffs
+2018-03-15 17:12:54 16764     [INFO] HyperLynx: Save changes to HW7_1? - The "Yes" button was selected
+2018-03-15 17:12:55 16764     [INFO] Closing Schematic: HW7_1.ffs
+2018-03-15 17:12:57 16764     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7.ffs
+2018-03-15 17:14:28 16764     [INFO] HyperLynx: Save changes to HW7? - The "Cancel" button was selected
+2018-03-15 17:15:36 16764     [INFO] Closing Schematic: HW7.ffs
+2018-03-15 17:15:38 16764     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7_1.ffs
+2018-03-15 17:20:22 16764     [INFO] Closing Schematic: HW7_1.ffs
+2018-03-15 17:20:25 16764     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7.ffs
+2018-03-15 17:21:25 16764     [INFO] Closing Schematic: HW7.ffs
+2018-03-15 17:21:27 16764     [INFO] ****** Closing HyperLynx 
+2018-03-23 09:11:40 8296     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7_1.ffs
+2018-03-23 09:19:19 8296     [INFO] HyperLynx: Save changes to HW7_1? - The "Yes" button was selected
+2018-03-23 09:19:20 8296     [INFO] Closing Schematic: HW7_1.ffs
+2018-03-23 09:19:23 8296     [INFO] ****** Closing HyperLynx 
+2018-03-23 09:19:43 10560     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7_1.ffs
+2018-03-23 09:29:30 10560     [INFO] Closing Schematic: HW7_1.ffs
+2018-03-23 09:29:33 10560     [INFO] ****** Closing HyperLynx 
+2018-03-24 10:42:50 7452     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7_1.ffs
+2018-03-24 12:23:05 10652     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7_1.ffs
+2018-03-24 12:24:21 10652  [WARNING] Error: No IC output on selected net (i.e., no driver). Stopping.
+2018-03-24 18:55:18 10652     [INFO] Closing Schematic: HW7_1.ffs
+2018-03-24 18:55:21 10652     [INFO] ****** Closing HyperLynx 
+2018-03-24 22:31:15 5812     [INFO] ****** Closing HyperLynx 
+2018-03-24 22:31:24 1464     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7_1.ffs
+2018-03-25 00:25:57 1464     [INFO] HyperLynx: Save changes to HW7_1? - The "Yes" button was selected
+2018-03-25 00:25:59 1464     [INFO] Closing Schematic: HW7_1.ffs
+2018-03-25 00:26:01 1464     [INFO] ****** Closing HyperLynx 
+2018-03-25 09:36:04 6768    [ERROR] LineSim Free-Form Schematic license not available.
+2018-03-25 09:36:05 6768     [INFO] Closing Schematic: Untitled.ffs
+2018-03-25 09:36:22 7928     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7_1.ffs
+2018-03-25 10:20:18 7928     [INFO] Closing Schematic: HW7_1.ffs
+2018-03-25 10:20:21 7928     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7.ffs
+2018-03-25 10:21:02 7928     [INFO] HyperLynx: Save changes to HW7? - The "No" button was selected
+2018-03-25 10:21:03 7928     [INFO] Closing Schematic: HW7.ffs
+2018-03-25 10:21:05 7928     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW7\HW7_1.ffs
+2018-03-25 11:16:26 7928     [INFO] Closing Schematic: HW7_1.ffs
+2018-03-25 11:16:29 7928     [INFO] ****** Closing HyperLynx 
+2018-04-01 09:20:59 6788  [WARNING] Model Builder: DC failed, trying to use the step limiting in the Newton method
+2018-04-01 10:17:29 6788     [INFO] HyperLynx: Save changes to Untitled? - The "No" button was selected
+2018-04-01 10:17:30 6788     [INFO] Closing Schematic: Untitled.ffs

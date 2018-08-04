@@ -1,0 +1,103 @@
+HyperLynx Field Solver
+Design File: "C:\Users\nagar\Desktop\ECEN5224\HW\HW4\HW4.ffs"
+Report File: "C:\Users\nagar\Desktop\ECEN5224\HW\HW4\Coupling0001.TXT"
+
+------------------- Impedance and Termination Summary --------------------
+
+Differential Z   = 129.8 ohms
+   (suggested single line-to-line resistor for differential signals;
+    works best for opposed, balanced transitions)
+Odd-mode Z       = 64.9 ohms
+
+Common-mode Z    = 50.2 ohms
+Even-mode Z      = 100.4 ohms
+   (suggested single line-to-ground resistor for common-mode signals;
+    works best for all-1's or all-0's transitions)
+
+Line-to-ground Z = 82.6 ohms
+   (suggested single line-to-ground resistor for independent signals;
+    works best for mixed 1's and 0's transitions)
+
+Optimal termination (requires 3 resistors)
+   line to line     = 366.9 ohms
+   line 1 to ground = 100.4 ohms
+   line 2 to ground = 100.4 ohms
+   (suggested for terminating all of the above modes simultaneously;
+    but you may have to AC couple one or more resistors to maintain
+    proper DC levels)
+
+------------------------ Physical Input Data -----------------------
+
+Coupling Region
+ Name:    Coupling0001
+ Length:  3.000in
+
+Position, Width, and Thickness are in English Units (mils).
+The X-Position is relative to the center of the trace.
+
+Field Solver Traces
+               Matrix
+               Index   Layer   X-Pos    Width  Comment
+TL1             1:1     TOP     0.00     6.00  Coupled Stackup
+TL2             2:2     TOP    14.00     6.00  Coupled Stackup
+
+Field Solver Stackup 
+ Type   Thickness  Dielectric   Layer 
+       Conf         0.50        3.30
+Signal       0.67        3.30     TOP  
+       Diel        10.00        4.30
+Plane        1.35        4.30     VCC  
+       Diel        10.00        4.30
+Signal       0.67        4.30     InnerSignal1  
+       Diel        10.00        4.30
+Signal       0.67        4.30     InnerSignal2  
+       Diel        10.00        4.30
+Plane        1.35        4.30     GND  
+       Diel        10.00        4.30
+Signal       0.67        3.30     BOTTOM  
+       Conf         0.50        3.30
+
+-------------------- Field Solver Output Data ----------------------
+
+Optimal Terminator-Resistor Array [ohms]:
+       1       2
+ 1    100.4   366.9
+ 2    366.9   100.4
+
+Characteristic Impedance Matrix [ohms]:
+       1       2
+ 1     82.6    17.7
+ 2     17.7    82.6
+
+
+(Note: Off-diagonal values are negative by mathematical convention.
+However, the capacitances are physically real; you can effectively
+ignore the signs. The signs are required, though, if transporting
+matrix data to another tool.)
+
+Capacitance Matrix [pF/m]:
+       1       2
+ 1   73.385 -13.066
+ 2  -13.066  73.385
+
+Inductance Matrix [nH/m]:
+       1       2
+ 1  485.824 121.907
+ 2  121.907 485.824
+
+DC Resistance Matrix [ohms/m]:
+       1       2
+ 1    6.598   0.000
+ 2    0.000   6.598
+
+Propagation Speeds:
+Mode 1: Differential(-+)  1.782842e+008 [m/s] = 0.5947c   Er(eff) = 2.828
+Mode 2: Common(++)        1.651649e+008 [m/s] = 0.5509c   Er(eff) = 3.295
+
+Percentage of energy traveling in each mode:
+(rows are modes, columns are traces)
+         Trace 1  Trace 2 
+Mode 1    50.00%   50.00% 
+Mode 2    50.00%   50.00% 
+
+--------------------------------------------------------------------

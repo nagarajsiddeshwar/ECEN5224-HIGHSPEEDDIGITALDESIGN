@@ -1,0 +1,26 @@
+2018-02-09 18:03:54  792  [WARNING] Warning: No probes are enabled. Please enable at least one before simulating.
+2018-02-09 18:20:21  792  [WARNING] Warning: No probes are enabled. Please enable at least one before simulating.
+2018-02-09 18:32:02  792  [WARNING] Warning: No probes are enabled. Please enable at least one before simulating.
+2018-02-10 00:29:54  792     [INFO] HyperLynx: Save changes to HW3? - The "Yes" button was selected
+2018-02-10 00:29:56  792     [INFO] Closing Schematic: HW3.ffs
+2018-02-10 00:29:59  792     [INFO] ****** Closing HyperLynx 
+2018-02-10 10:22:46 9672     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW3\HW3.ffs
+2018-02-10 11:30:12 9672  [WARNING] Warning: No probes are enabled. Please enable at least one before simulating.
+2018-02-10 12:23:21 9672    [ERROR] Rise Time: Not found.
+2018-02-10 12:31:56 9672     [INFO] HyperLynx: Save changes to HW3? - The "Yes" button was selected
+2018-02-10 12:31:58 9672     [INFO] Closing Schematic: HW3.ffs
+2018-02-10 12:32:01 9672     [INFO] ****** Closing HyperLynx 
+2018-02-10 12:32:16 3080     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW3\HW3.ffs
+2018-02-10 12:32:36 3080  [WARNING] Warning: No probes are enabled. Please enable at least one before simulating.
+2018-02-10 15:15:54 3080     [INFO] Closing Schematic: HW3.ffs
+2018-02-10 15:15:58 3080     [INFO] ****** Closing HyperLynx 
+2018-02-10 18:53:08 9748     [INFO] ****** Closing HyperLynx 
+2018-02-10 18:53:23 6064     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW3\HW3.ffs
+2018-02-10 18:54:14 6064  [WARNING] Warning: No probes are enabled. Please enable at least one before simulating.
+2018-02-10 23:18:41 6064     [INFO] Closing Schematic: HW3.ffs
+2018-02-10 23:18:49 6064     [INFO] ****** Closing HyperLynx 
+2018-02-11 20:08:12 7452     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW3\HW3.ffs
+2018-02-11 20:34:29 7452  [WARNING] Warning: No probes are enabled. Please enable at least one before simulating.
+2018-02-12 00:44:50 7452    [ERROR] Error: Number out of range! Using maximum default.
+2018-02-12 01:06:18 7452     [INFO] Closing Schematic: HW3.ffs
+2018-02-12 01:06:20 7452     [INFO] ****** Closing HyperLynx 

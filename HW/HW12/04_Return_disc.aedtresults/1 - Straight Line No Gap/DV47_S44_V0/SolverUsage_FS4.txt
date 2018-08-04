@@ -1,0 +1,17 @@
+    VersionID HFSS2017_2
+    NumberFrequencies 1
+    Frequency 5500000.000000
+    Success 1
+    SolverName Nondomain
+    IterativeSolver 0
+    DistributedSolver 0
+    Precision 1
+    NumTasks 1
+    NumTets 38207
+    BasisOrder -1
+    TREECOTREE 1
+    MemoryMasterMB 251.000000
+    MemoryTotalMB 1656.800781
+    NumMeshStatisticsTets 38207
+    MemoryForSMatrixOnlyMB 748.505497
+    LowFrequencyCutoff 15131862.406622

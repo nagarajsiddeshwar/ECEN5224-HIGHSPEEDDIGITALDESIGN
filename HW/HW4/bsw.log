@@ -1,0 +1,98 @@
+2018-02-18 18:00:55 7780  [WARNING] No driver on selected net. Press 'Cancel' to choose driver now. - The "OK" button was selected
+2018-02-19 00:46:44 7780     [INFO] Closing Schematic: HW4.ffs
+2018-02-19 00:46:47 7780     [INFO] ****** Closing HyperLynx 
+2018-02-19 16:56:10 12112     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW4\HW4.ffs
+2018-02-20 10:18:28 10320     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW4\HW4.ffs
+2018-02-20 10:42:38 10320    [ERROR] Error: Not a floating point number! Enter a valid number.
+2018-02-20 12:02:37 10320     [INFO] Closing Schematic: HW4.ffs
+2018-02-20 12:02:40 10320     [INFO] ****** Closing HyperLynx 
+2018-02-20 12:33:44 2944     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW4\HW4.ffs
+2018-02-20 12:41:27 2944    [ERROR] No waveform is selected. Select waveform before attempting this command.
+2018-02-20 12:49:12 2944     [INFO] HyperLynx: Save changes to HW4? - The "Yes" button was selected
+2018-02-20 12:49:14 2944     [INFO] Closing Schematic: HW4.ffs
+2018-02-20 12:49:16 2944     [INFO] ****** Closing HyperLynx 
+2018-02-20 12:49:22 10632     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW4\HW4.ffs
+2018-02-20 12:50:02 10632     [INFO] Stackup Editor: All changes in Stackup will be lost! Do you really want to close Stackup Editor? - The "No" button was selected
+2018-02-20 13:16:11 10632  [WARNING] HyperLynx: Direct connection of a transmission line to a power/ground net is not supported. Use a passive component to connect the line to power/ground.
+2018-02-20 13:16:22 10632  [WARNING] HyperLynx: Direct connection of a transmission line to a power/ground net is not supported. Use a passive component to connect the line to power/ground.
+2018-02-20 13:16:30 10632  [WARNING] HyperLynx: Direct connection of a transmission line to a power/ground net is not supported. Use a passive component to connect the line to power/ground.
+2018-02-20 13:16:35 10632  [WARNING] HyperLynx: Direct connection of a transmission line to a power/ground net is not supported. Use a passive component to connect the line to power/ground.
+2018-02-20 13:38:07 10632     [INFO] Closing Schematic: HW4.ffs
+2018-02-20 13:38:10 10632     [INFO] ****** Closing HyperLynx 
+2018-02-20 14:52:32 14768     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW4\HW4.ffs
+2018-02-20 16:35:03 14768     [INFO] Closing Schematic: HW4.ffs
+2018-02-20 19:20:07 12128     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW4\HW4.ffs
+2018-02-20 19:38:07 12128    [ERROR] No waveform is selected. Select waveform before attempting this command.
+2018-02-20 20:21:30 12128    [ERROR] No waveform is selected. Select waveform before attempting this command.
+2018-02-21 00:10:34 12128     [INFO] HyperLynx: Save changes to HW4? - The "Yes" button was selected
+2018-02-21 00:10:36 12128     [INFO] Closing Schematic: HW4.ffs
+2018-02-21 09:46:34 7904     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW4\HW4.ffs
+2018-02-21 14:16:17 7904     [INFO] Closing Schematic: HW4.ffs
+2018-02-21 14:16:21 7904     [INFO] ****** Closing HyperLynx 
+2018-02-21 16:55:57 14028     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW4\HW4.ffs
+2018-02-21 17:26:19 14028    [ERROR] No waveform is selected. Select waveform before attempting this command.
+2018-02-21 18:07:36 14028  [WARNING] HyperLynx: Via can be connected to transmission lines only
+2018-02-21 18:07:54 14028     [INFO] Can't connect the transmission line to the selected via port: the t-line is on a different layer than the port. The via will be connected to another, appropriate port.
+2018-02-21 18:08:37 14028     [INFO] Can't connect the transmission line to the selected via port: the t-line is on a different layer than the port. The via will be connected to another, appropriate port.
+2018-02-21 18:11:47 14028  [WARNING] HyperLynx: Via can be connected to transmission lines only
+2018-02-21 18:11:58 14028     [INFO] Can't connect the transmission line to the selected via port: the t-line is on a different layer than the port. The via will be connected to another, appropriate port.
+2018-02-21 18:12:27 14028  [WARNING] HyperLynx: Via can be connected to transmission lines only
+2018-02-21 18:12:36 14028  [WARNING] HyperLynx: Via can be connected to transmission lines only
+2018-02-21 18:12:40 14028  [WARNING] HyperLynx: Via can be connected to transmission lines only
+2018-02-21 18:18:38 14028     [INFO] Closing Schematic: HW4.ffs
+2018-02-21 18:18:40 14028     [INFO] ****** Closing HyperLynx 
+2018-02-21 18:19:30 10692     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW4\HW4.ffs
+2018-02-21 18:20:05 10692     [INFO] Closing Schematic: HW4_1.ffs
+2018-02-21 18:20:07 10692     [INFO] ****** Closing HyperLynx 
+2018-02-21 18:20:19 6888     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW4\HW4_1.ffs
+2018-02-21 18:20:19 6888  [WARNING] HyperLynx: Unable to open file "C:\Users\nagar\Desktop\ECEN5224\HW\HW4\HW4_1.ffs" for the following reason: No such file or directory
+2018-02-21 18:20:21 6888     [INFO] Closing Schematic: HW4_1.ffs
+2018-02-21 18:20:28 6888     [INFO] Creating New Schematic
+2018-02-21 18:21:07 6888  [WARNING] No driver on selected net. Press 'Cancel' to choose driver now. - The "Cancel" button was selected
+2018-02-21 18:26:31 6888    [ERROR] Error: Number out of range! Using minimum default.
+2018-02-21 21:51:41 6888     [INFO] HyperLynx: Save changes to HW4_1? - The "Yes" button was selected
+2018-02-21 21:51:42 6888     [INFO] Closing Schematic: HW4_1.ffs
+2018-02-21 21:51:49 6888     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW4\HW4.ffs
+2018-02-21 21:57:54 6888     [INFO] HyperLynx: Save changes to HW4? - The "Yes" button was selected
+2018-02-21 21:57:56 6888     [INFO] Closing Schematic: HW4.ffs
+2018-02-21 21:57:58 6888     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW4\HW4_1.ffs
+2018-02-21 22:14:33 6888     [INFO] HyperLynx: Save changes to HW4_1? - The "No" button was selected
+2018-02-21 22:14:38 6888     [INFO] Closing Schematic: HW4_1.ffs
+2018-02-21 22:14:41 6888     [INFO] ****** Closing HyperLynx 
+2018-02-21 22:14:53 6984     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW4\HW4_1.ffs
+2018-02-21 22:26:57 6984     [INFO] Closing Schematic: HW4_1.ffs
+2018-02-21 22:26:59 6984     [INFO] ****** Closing HyperLynx 
+2018-02-22 13:06:40 9032     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW4\HW4.ffs
+2018-02-22 13:12:38 9032  [WARNING] Model Builder: DC failed, trying to use the step limiting in the Newton method
+2018-02-22 13:15:01 9032  [WARNING] Model Builder: DC failed, trying to use the step limiting in the Newton method
+2018-02-22 13:15:02 9032  [WARNING] Model Builder: DC failed, trying to use the step limiting in the Newton method
+2018-02-22 13:15:03 9032  [WARNING] Model Builder: DC failed, trying to use the step limiting in the Newton method
+2018-02-22 13:15:11 9032  [WARNING] Model Builder: DC failed, trying to use the step limiting in the Newton method
+2018-02-22 13:15:12 9032  [WARNING] Model Builder: DC failed, trying to use the step limiting in the Newton method
+2018-02-22 13:40:12 9032     [INFO] HyperLynx: Save changes to HW4? - The "Yes" button was selected
+2018-02-22 13:40:14 9032     [INFO] Closing Schematic: HW4.ffs
+2018-02-22 13:40:17 9032     [INFO] ****** Closing HyperLynx 
+2018-02-22 23:30:45 3232     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW4\HW4.ffs
+2018-02-22 23:31:15 3232  [WARNING] Model Builder: DC failed, trying to use the step limiting in the Newton method
+2018-02-23 00:03:01 3232     [INFO] Closing Schematic: HW4.ffs
+2018-02-23 00:03:06 3232     [INFO] ****** Closing HyperLynx 
+2018-02-25 13:30:03 9992    [ERROR] BoardSim: Project file "C:\Users\nagar\Desktop\ECEN5224\HW\HW4\HW4.pjh" doesn't contain multiboard information.  Please, select another file or choose menu "File\New MultiBoard Project..." to create new project.
+2018-02-25 13:30:16 9992     [INFO] HyperLynx: Save changes to Untitled? - The "No" button was selected
+2018-02-25 13:30:17 9992     [INFO] Closing Schematic: Untitled.ffs
+2018-02-25 13:30:20 9992     [INFO] Creating New Schematic
+2018-03-06 21:42:17 8964     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW4\HW4.ffs
+2018-03-06 21:42:47 8964  [WARNING] Model Builder: DC failed, trying to use the step limiting in the Newton method
+2018-03-06 21:47:31 8964     [INFO] HyperLynx: Save changes to HW4? - The "No" button was selected
+2018-03-06 21:47:32 8964     [INFO] Closing Schematic: HW4.ffs
+2018-03-06 21:47:35 8964     [INFO] ****** Closing HyperLynx 
+2018-03-15 23:18:33 13060     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW4\HW4.ffs
+2018-03-15 23:19:06 13060  [WARNING] Model Builder: DC failed, trying to use the step limiting in the Newton method
+2018-03-16 01:11:40 13060     [INFO] HyperLynx: Save changes to HW4? - The "Yes" button was selected
+2018-03-16 01:11:42 13060     [INFO] Closing Schematic: HW4.ffs
+2018-03-16 01:11:45 13060     [INFO] ****** Closing HyperLynx 
+2018-03-16 09:56:06 11540     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW4\HW4.ffs
+2018-03-16 09:56:10 11540     [INFO] HyperLynx: Save changes to HW4? - The "No" button was selected
+2018-03-16 09:56:12 11540     [INFO] Closing Schematic: HW4.ffs
+2018-03-16 09:56:14 11540     [INFO] ****** Closing HyperLynx 
+2018-04-01 10:17:38 6788     [INFO] Opening Schematic: C:\Users\nagar\Desktop\ECEN5224\HW\HW4\HW4.ffs
+2018-04-01 11:21:00 6788     [INFO] Closing Schematic: HW4.ffs

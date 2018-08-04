@@ -1,0 +1,7 @@
+MeshFile='Boundary.mesh'
+$begin 'Frequencies'
+	$begin 'BND_FS1.freq'
+		Frequency=20000000000
+		FreqDir=''
+	$end 'BND_FS1.freq'
+$end 'Frequencies'

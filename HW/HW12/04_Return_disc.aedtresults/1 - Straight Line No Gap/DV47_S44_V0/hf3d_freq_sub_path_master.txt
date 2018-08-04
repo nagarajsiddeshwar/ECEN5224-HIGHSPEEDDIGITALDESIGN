@@ -1,0 +1,4 @@
+3
+1  10950656250 sfFalse freq_0/
+2  14375562500 sfFalse freq_1/
+3  7850468750 sfFalse freq_2/

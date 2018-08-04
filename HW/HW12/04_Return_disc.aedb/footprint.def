@@ -1,0 +1,2 @@
+DEFINE footprint1 footprint1
+ASSIGN footprint1 libMode shared

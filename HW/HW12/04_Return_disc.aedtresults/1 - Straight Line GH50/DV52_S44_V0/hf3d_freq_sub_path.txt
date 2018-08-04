@@ -1,0 +1,4 @@
+3
+1  45312593750 sfFalse freq_0/
+2  48437531250 sfFalse freq_1/
+3  42187656250 sfFalse freq_2/

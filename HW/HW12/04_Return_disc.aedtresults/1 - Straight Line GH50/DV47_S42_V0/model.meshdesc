@@ -1,0 +1,118 @@
+$begin 'Header'
+	Version=16
+$end 'Header'
+$begin 'MeshBodies'
+	$begin 'Bodies'
+		$begin 'MeshBody'
+			Id=1
+			Nam='airbox'
+			Mat='air'
+			Diel=true
+			Type='Airbox'
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=2
+			Nam='Diel'
+			Mat='FR4_epoxy'
+			Layer='Diel'
+			Diel=true
+			Thickness=-1.0000000000000000e+000
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=3
+			Nam='GND'
+			Mat='copper'
+			Layer='GND'
+			Priority=1
+			Thickness=1.7739245221235313e-005
+			Net='GND'
+			OrigNet='GND'
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=4
+			Nam='GND#t=fill'
+			Mat='FR4_epoxy'
+			Layer='GND#t=fill'
+			Diel=true
+			Thickness=1.7779999999999999e-005
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=5
+			Nam='Port#Port1'
+			Mat='pec'
+			DesNam='Port1'
+			Type='Port'
+			Priority=1
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=6
+			Nam='Port#Port10'
+			Mat='pec'
+			DesNam='Port10'
+			Type='Port'
+			Priority=1
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=7
+			Nam='Sig1'
+			Mat='copper'
+			Layer='Sig1'
+			Priority=1
+			Thickness=1.6595109202912090e-005
+			Net='Signal'
+			OrigNet='Signal'
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=10
+			Nam='Sig1#L1'
+			Mat='copper'
+			DesNam='Sig1'
+			Layer='Sig1'
+			Priority=1
+			Thickness=1.6595109202912090e-005
+			Net='Signal'
+			OrigNet='Signal'
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=13
+			Nam='Sig1#L2'
+			Mat='copper'
+			DesNam='Sig1'
+			Layer='Sig1'
+			Priority=1
+			Thickness=1.6595109202912090e-005
+			Net='Signal'
+			OrigNet='Signal'
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=16
+			Nam='Sig1#L3'
+			Mat='copper'
+			DesNam='Sig1'
+			Layer='Sig1'
+			Priority=1
+			Thickness=1.6595109202912093e-005
+			Net='Signal'
+			OrigNet='Signal'
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=19
+			Nam='Sig1#L4'
+			Mat='copper'
+			DesNam='Sig1'
+			Layer='Sig1'
+			Priority=1
+			Thickness=1.6595109202912090e-005
+			Net='Signal'
+			OrigNet='Signal'
+		$end 'MeshBody'
+		$begin 'MeshBody'
+			Id=22
+			Nam='Sig1#t=fill'
+			Mat='air'
+			Layer='Sig1#t=fill'
+			Diel=true
+			Thickness=1.7779999999999999e-005
+		$end 'MeshBody'
+	$end 'Bodies'
+$end 'MeshBodies'
